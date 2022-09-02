@@ -59,8 +59,7 @@ function removeTodo(idToDelete)
 
 function saveTodos() 
 {
-  localStorage.setItem('todos',JSON.stringify(todos));
-
+    localStorage.setItem('todos',JSON.stringify(todos));
 }
 
 //Controller
