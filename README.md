@@ -4,4 +4,4 @@ This program was my project based learning attempt at JavaScript using SuperSimp
 It allowed me to learn JavaScript by making a ToDo application that lets you add new items to your list, delete previous items, and saves your data for future instances.
 I also got practice using the MVC architecture (Model View Controller) which lets you organize your code in a way that professionals do while reducing redundancy.
 
-In the practice.html file, there is code that I wrote to complete the exercises in the course to reinforce the learning.
+This app will be upgraded with more features and better UI changes in the future!
